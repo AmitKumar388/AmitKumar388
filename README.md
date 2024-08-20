@@ -1,4 +1,4 @@
-
+![logo](https://github.com/AmitKumar388/AmitKumar388/blob/main/senior-software-engineer_Wy82tYQym.gif)
 <h1 align="center">Hi 👋, I'm Amit Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
