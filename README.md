@@ -4,13 +4,13 @@
 
 <p align="left"> </p>
 
-- 🔭 I’m currently working on **CodeMaster**
+- 🔭 I’m currently working on **SmartApply.AI**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Next.js,Agentic.AI**
 
 - 👨‍💻 All of my projects are available at [https://amitkumar388.github.io/profileportfolio/](https://amitkumar388.github.io/profileportfolio/)
 
-- 💬 Ask me about **Web Development, MERN Stacks, Graphic Design**
+- 💬 Ask me about **Software Development, Web Development, MERN Stacks, Graphic Design**
 
 - 📫 How to reach me **amitkumarhzb75@gmail.com**
 
