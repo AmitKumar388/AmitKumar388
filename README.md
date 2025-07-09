@@ -38,5 +38,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amitkumar388&show_icons=true&locale=en&layout=compact" alt="amitkumar388" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amitkumar388&show_icons=true&locale=en" alt="amitkumar388" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amitkumar388&" alt="amitkumar388" /></p>
