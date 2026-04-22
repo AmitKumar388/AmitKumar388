@@ -1,41 +1,132 @@
-<h1 align="center">Hi 👋, I'm Amit Kumar</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Amit+Kumar;Full+Stack+Developer+%7C+MERN+%7C+TypeScript;Building+Scalable+%26+Intelligent+Web+Apps" alt="Typing SVG" />
+</h1>
 
-<p align="left"> </p>
-
-- 🔭 I'm currently working on **a MERN Stack Project**
-
-- 🌱 I'm currently learning **Docker, Next.js and AI Integration**
-
-- 👯 I'm looking to collaborate on **Open Source Projects **
-
-- 🤝 I'm looking for help with **learning System design**
-
-- 💬 Ask me about **Software Development, Web Development, MERN Stacks, Graphic Design**
-
-- 📫 How to reach me **amitkumarhzb75@gmail.com**
-
-- ⚡ Fun fact **I enjoy solving bugs more than creating them 😄**
-
-- 👨‍💻 All of my projects are available at **[https://portfolio-suite.vercel.app/](https://portfolio-suite.vercel.app/)**
-
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1Yy-ByTOvdIi_GCwxphjFbCnwZgHr2bKb/view?usp=drive_link](https://drive.google.com/file/d/1Yy-ByTOvdIi_GCwxphjFbCnwZgHr2bKb/view?usp=drive_link)**
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/AmitKumar388" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="AmitKumar388" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/amitkumar-developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amitkumar-developer" height="30" width="40" /></a>
-<a href="https://instagram.com/amit_kumar.021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amit_kumar.021" height="30" width="40" /></a>
-<a href="https://twitter.com/amitkumarhzb75" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amitkumarhzb75" height="30" width="40" /></a>
-<a href="https://youtube.com/CodeLifeDiaries" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="CodeLifeDiaries" height="30" width="40" /></a>
-<a href="https://hackerrank.com/amitkumarhzb1861" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="amitkumarhzb1861" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/Amitkumar21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Amitkumar21" height="30" width="40" /></a>
-<a href="https://leetcode.com/Amit_Kumar3884" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Amit_Kumar3884" height="30" width="40" /></a>
+<h3 align="center">🚀 Backend Engineer & Full-Stack Developer </h3>
+<p align="center" style="font-size:12px; max-width:700px; margin:auto; line-height:1.6;">
+  B.Tech Computer Science student (2026) specializing in backend development with Node.js and Express.
+  Experienced in designing RESTful APIs, working with databases, and building scalable applications.
+  Strong foundation in data structures, problem-solving, and system design.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/fastapi" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/firebase" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nestjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nestjs" alt="nestjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/photoshop" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/reactnative" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="reactnative" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sass" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sass" alt="sass" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/vuejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vue" alt="vuejs" width="40" height="40"/> </a></p>
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/amitkumar-developer/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:amitkumarhzb75@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://youtube.com/CodeLifeDiaries" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>&nbsp;&nbsp;
+</p>
+
+---
+
+## 🛠️ Languages & Tools
+
+### 🌐 Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,bootstrap,sass&perline=10" />
+</p>
+
+### ⚙️ Backend & Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,python,mongodb,mysql,postgres,firebase&perline=10" />
+</p>
+
+### ☁️ DevOps & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,aws,git,github,postman,figma,photoshop,cpp,java&perline=10" />
+</p>
+
+---
+
+## 🧠 Knowledge Base & Concepts
+
+> I don't just write code — I think about how systems are designed.
+
+| Area | Concepts & Technologies |
+|------|------------------------|
+| 🔗 **API Design** | RESTful APIs, Rate Limiting, Caching strategies, Horizontal Scaling |
+| 🔒 **Auth & Security** | JWT Authentication, RBAC (Role-Based Access Control) |
+| ⚡ **Real-Time Systems** | WebSockets for bi-directional communication |
+| 📐 **Architecture** | MVC Pattern, Modular Backends, Event-Driven Design (SSE) |
+| 🗄️ **Databases** | MongoDB, MySQL, PostgreSQL — schema design & query optimization |
+| 🐳 **DevOps Basics** | Docker containerization, AWS Cloud Foundations |
+| 🤖 **AI Integration** | Gemini API, AI-powered features in full-stack web apps |
+| 🧩 **DSA** | 250+ problems solved in C++ — arrays, graphs, DP, trees |
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 SmartApply.AI
+> **AI-powered Interview Preparation Platform**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=flat-square&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+</p>
+
+- 🎯 Practice AI-generated interview questions tailored to your role and skills
+- 🔧 Node.js + Express.js backend managing sessions, user progress & question storage
+- 🎨 Clean, responsive UI built with React.js + Tailwind CSS
+
+---
+
+### 🧘 MoodRx — Mental Health Analysis
+> **Mood Tracking & Mental Wellness Web App** &nbsp;|&nbsp; 🏆 *7th out of 220+ teams — College Hackathon*
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+</p>
+
+- 📊 Interactive mood tracking dashboard with user analytics
+- 🔐 Secure JWT-based auth system with protected routes
+- 🤝 Built with a team using Agile workflow
+
+---
+
+## 🏅 Certifications
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python%20Essential%201%20%26%202-Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Networking%20Basics-Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/AWS%20Cloud%20Foundations-Amazon-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/CyberSecurity%20Intro-Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Node.js%20Training-LinkedIn%20Learning-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AmitKumar388&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmitKumar388&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top Languages"/>
+</p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AmitKumar388&" alt="AmitKumar388" /></p>
+---
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d9ff&height=80&section=footer" />
+</p>
+
